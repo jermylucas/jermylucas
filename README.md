@@ -10,7 +10,6 @@ Experience
 Currently Interested In
 - 🧪 Jest JavaScript testing
 - 🐍 Python data structures, algorithms, and automation 
-- ⚙️ 
 
 Contact
 - LinkedIn - [@jeremy-dev](https://www.linkedin.com/in/jeremy-dev/)
