@@ -8,7 +8,6 @@ Experience
 - ⚙️ NodeJS serverside backend
 
 Currently Interested In
-- 🧪 Jest JavaScript testing
 - 🐍 Python data structures, algorithms, and automation 
 
 Contact
