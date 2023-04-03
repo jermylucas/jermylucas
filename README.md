@@ -7,9 +7,6 @@ Professional Experience
 - 🔥 Firebase
 - ⚙️ NodeJS serverside backend
 
-Currently Interested In
-- 🐍 Python data structures, algorithms, and automation 
-
 Contact
 - LinkedIn - [@jeremy-dev](https://www.linkedin.com/in/jeremy-dev/)
 - Email - [jplucas14@gmail.com](mailto:jplucas14@gmail.com)
