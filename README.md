@@ -2,9 +2,8 @@ I'm a Front End Software Engineer with proven experience in web application deve
 
 Professional Experience
 - 🖥 Angular, JavaScript/TypeScript, ReactJS 
-- 🗂️ NgRx/NGXS
+- 🗂️ NgRx/NGXS and Redux State Management
 - ☁️ Azure and Heroku Cloud Services
-- 🔥 Firebase
 - ⚙️ NodeJS serverside backend
 
 Contact
